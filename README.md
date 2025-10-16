@@ -28,7 +28,7 @@ From creating AI tools and dashboards to full-stack web apps — I enjoy turning
 ---
 
 ### 🌍 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/01mazid)  
-- 🐦 [Twitter](https://twitter.com/01mazid)  
-- 📸 [Instagram](https://instagram.com/01mazid)  
+- 💼 [LinkedIn](https://linkedin.com/in/brobro1111)  
+- 🐦 [Twitter](https://twitter.com/brobro1111)  
+- 📸 [Instagram](https://instagram.com/brobro1111)  
 - ✉️ **Email:** your@email.com
