@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Mazid Khan (01Mazid)
+# 👋 Hey, I’m Mazid Khan (brobro1111)
 
 I’m a developer and data enthusiast who loves building things that **combine AI + Data + Code**.  
 From creating AI tools and dashboards to full-stack web apps — I enjoy turning ideas into real, usable products.
@@ -22,8 +22,8 @@ From creating AI tools and dashboards to full-stack web apps — I enjoy turning
 ---
 
 ### 📊 GitHub Stats
-![Mazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=01mazid&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01mazid&layout=compact&theme=tokyonight)
+![Mazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro1111&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brobro1111&layout=compact&theme=tokyonight)
 
 ---
 
