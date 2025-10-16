@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01mazid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01mazid&locale=en&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brobro1111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brobro1111&locale=en&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ###
@@ -34,13 +34,13 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/01mazid" target="_blank">
+  <a href="https://linkedin.com/in/brobro1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://twitter.com/01mazid" target="_blank">
+  <a href="https://twitter.com/brobro1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://instagram.com/01mazid" target="_blank">
+  <a href="https://instagram.com/brobro1111" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:your@email.com" target="_blank">
@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/01mazid/01mazid/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brobro1111/brobro1111/output/snake.svg" alt="Snake animation" />
 
 ###
